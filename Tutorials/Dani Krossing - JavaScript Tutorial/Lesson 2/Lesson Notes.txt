@@ -1,0 +1,11 @@
+- Lesson 2 - Which Tools to Use When Developing JavaScript:
+
+	- You only need two tools:
+		- a text editor:
+			- Sublime Text
+			- Atom
+			- Visual Studio Code
+		- a browser:
+			- Google Chrome
+			
+	- You can add some extensions to the text editor in order to make the development process easier.

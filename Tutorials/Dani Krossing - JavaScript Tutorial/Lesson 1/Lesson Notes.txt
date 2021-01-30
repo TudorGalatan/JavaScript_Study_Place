@@ -1,0 +1,25 @@
+- Lesson 1 - How to Get Started with JavaScript:
+
+	- There are many server side variations of JavaScript, as well as frameworks and libraries that use it:
+		- Libraries that help make writing JavaScript easy and faster:
+			- jQuery
+			- React
+		- Frameworks, used to simplify building advanced web applications with JavaScript:
+			- Angular
+			- AngularJS
+		- Platforms which allow JavaScript to run like a server-side programming language:
+			- Node.js
+	
+	- Java is a totally different language than JavaScript.
+	
+	- When a website is loaded into a browser, it is done so in three different layers:
+		- The content layer (HTML):
+			- Consists of the content of the website, and the HTML wrapped around it.
+			- It is loaded when the page loads.
+		- The presentation layer (CSS):
+			- Consists of CSS that is applied to the HTML in order to make the website prettier.
+			- It is loaded when the page loads.
+		- The Interactive layer (JavaScript):
+			- This is what interacts with HTML and CSS to change what one can see and do inside a website.
+			- Continuously runs in the background of the website in real time both when and after the page is loaded.
+			- It can make changes to the website any time without needing to refresh the browser.
