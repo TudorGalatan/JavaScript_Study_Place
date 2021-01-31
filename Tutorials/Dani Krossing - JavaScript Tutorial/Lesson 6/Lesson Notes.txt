@@ -1,0 +1,11 @@
+- Lesson 6 - Rules for Writing JavaScript Code
+
+	- Comments in JavaScript:
+	
+		- One-line comments:
+			- // This is a line of comments.
+		- Multi-line comments:
+			- /* This is a paragraph
+				 of comment. */
+				 
+	- JavaScript is case-sensitive.

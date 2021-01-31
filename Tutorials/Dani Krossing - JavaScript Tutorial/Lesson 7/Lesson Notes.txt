@@ -1,0 +1,1 @@
+- Lesson 7 - How to Create Variables in JavaScript
